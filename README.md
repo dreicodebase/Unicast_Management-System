@@ -1,1 +1,1 @@
-Please follow the system project structure when adding any code. Huwag mag-create ng random folders. If kailangan mag-add ng new folder or file, make sure na related ito sa existing
+Please follow the system project structure when adding any code. Huwag mag-create ng random folders. If kailangan mag-add ng new folder or file, make sure na related ito sa existing structure. Open the Project Structure to view the correct file organization of the system
