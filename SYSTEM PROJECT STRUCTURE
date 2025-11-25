@@ -1,0 +1,54 @@
+Config Files
+package.json
+
+
+firebase.json
+
+
+.firebaserc
+
+
+.gitignore
+
+
+README.md
+
+
+NO extra/random folders
+(no "new folder", "testing", "backup", "v1sample", etc.)
+
+
+FRONTEND Folder
+
+/frontend
+  /src
+    /components
+    /pages
+    /assets
+    firebase.js
+  index.html
+  App.js ( React)
+  styles.css
+
+Back end Firebase
+
+/backend
+  firestore.rules
+  firestore.indexes.json
+  Database-schema md
+
+/cloud-functions
+  /functions
+    index.js
+    messaging.js
+    attendance.js
+  package.json
+
+
+## ANALYTIC FOLDER
+
+/analytics
+  analytics.js
+  report-generation.js
+
+
